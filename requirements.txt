@@ -1,0 +1,9 @@
+selenium
+pandas
+numpy
+sqlalchemy
+matplotlib
+seaborn
+plotly
+python-dotenv
+tqdm
