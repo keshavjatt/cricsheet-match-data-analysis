@@ -1,25 +1,28 @@
 ## 🏏 Cricsheet Match Data Analysis (Python + SQL + Power BI)
 
-This project is a **student placement tracking dashboard** built using **Python, Streamlit, and SQLite**. It includes functionalities like student data management, skill analysis, and placement insights.
+A comprehensive cricket data analysis project that processes match data from Cricsheet, performs detailed analysis, and creates interactive visualizations. This project demonstrates end-to-end data engineering and analysis skills.
 
 ## 🚀 Features
 
-- Web Scraping: Automated data extraction from Cricsheet using Selenium
-- Data Processing: JSON to structured CSV conversion using Pandas
-- Database Management: SQLite database with optimized tables for different match formats
-- SQL Analysis: 20+ analytical queries for player and team performance insights
-- EDA Visualizations: 10+ interactive charts using Matplotlib, Seaborn, and Plotly
-- Power BI Dashboard: Interactive dashboard for data-driven storytelling
-- Multi-format Support: Test, ODI, T20, and IPL match analysis
+- **Web Scraping**: Automated data extraction from Cricsheet using requests library
+- **Data Processing**: JSON to structured CSV conversion using Pandas with multiprocessing
+- **Database Management**: SQLite database with optimized schema design
+- **SQL Analysis**: Advanced analytical queries for player and team performance insights
+- **EDA Visualizations**: 10+ interactive charts using Matplotlib, Seaborn, and Plotly
+- **Environment Configuration**: .env file support for database configuration
+- **Performance Optimized**: Fast processing with efficient memory management
 
 ## 🛠️ Tech Stack
 
-- Python  
-- Selenium (web scraping)
-- Pandas (data processing)
-- SQLite (database)
-- Matplotlib/Seaborn/Plotly (visualizations)
-- Power BI (dashboard)
+- **Python 3.8+** - Core programming language
+- **Pandas** - Data processing and manipulation
+- **SQLAlchemy** - Database ORM and management
+- **Matplotlib/Seaborn** - Static visualizations and charts
+- **Plotly** - Interactive visualizations
+- **python-dotenv** - Environment configuration management
+- **SQLite** - Lightweight database storage
+- **Requests** - HTTP requests for data downloading
+- **tqdm** - Progress tracking
 
 ## 🧾 How to Run this Project
 
