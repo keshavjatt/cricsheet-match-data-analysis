@@ -1,0 +1,99 @@
+match_id,match_type,team1,team2,venue,date,winner,toss_winner,toss_decision
+1001349,T20,Australia,Sri Lanka,Melbourne Cricket Ground,2017-02-17,Sri Lanka,Sri Lanka,field
+1001351,T20,Australia,Sri Lanka,"Simonds Stadium, South Geelong",2017-02-19,Sri Lanka,Sri Lanka,field
+1001353,T20,Australia,Sri Lanka,Adelaide Oval,2017-02-22,Australia,Sri Lanka,field
+1004729,T20,Ireland,Hong Kong,"Bready Cricket Club, Magheramason",2016-09-05,Hong Kong,Hong Kong,bat
+1007655,T20,Zimbabwe,India,Harare Sports Club,2016-06-18,Zimbabwe,India,field
+1007657,T20,Zimbabwe,India,Harare Sports Club,2016-06-20,India,Zimbabwe,bat
+1007659,T20,Zimbabwe,India,Harare Sports Club,2016-06-22,India,Zimbabwe,field
+1019979,T20,New Zealand,Bangladesh,McLean Park,2017-01-03,New Zealand,Bangladesh,bat
+1019981,T20,New Zealand,Bangladesh,Bay Oval,2017-01-06,New Zealand,Bangladesh,field
+1019983,T20,New Zealand,Bangladesh,Bay Oval,2017-01-08,New Zealand,Bangladesh,field
+1020029,T20,New Zealand,South Africa,Eden Park,2017-02-17,South Africa,New Zealand,field
+1031431,T20,England,South Africa,The Rose Bowl,2017-06-21,England,South Africa,bat
+1031433,T20,England,South Africa,County Ground,2017-06-23,South Africa,England,field
+1031435,T20,England,South Africa,Sophia Gardens,2017-06-25,England,South Africa,field
+1031665,T20,West Indies,England,Riverside Ground,2017-09-16,West Indies,England,field
+1034825,T20,India,England,Green Park,2017-01-26,England,England,field
+1034827,T20,India,England,"Vidarbha Cricket Association Stadium, Jamtha",2017-01-29,India,England,field
+1034829,T20,India,England,M Chinnaswamy Stadium,2017-02-01,India,England,field
+1041615,T20,India,West Indies,Central Broward Regional Park Stadium Turf Ground,2016-08-27,West Indies,India,field
+1041617,T20,India,West Indies,Central Broward Regional Park Stadium Turf Ground,2016-08-28,Unknown,India,field
+1043989,T20,Australia,New Zealand,Melbourne Cricket Ground,2017-02-17,Australia,New Zealand,field
+1043991,T20,Australia,New Zealand,"Simonds Stadium, South Geelong",2017-02-19,New Zealand,Australia,field
+1043993,T20,Australia,New Zealand,Adelaide Oval,2017-02-22,New Zealand,New Zealand,bat
+1044211,T20,Sri Lanka,Australia,Sinhalese Sports Club Ground,2016-09-27,Australia,Australia,field
+1050217,T20,Pakistan,West Indies,Dubai International Cricket Stadium,2016-09-23,Pakistan,Pakistan,field
+1050219,T20,Pakistan,West Indies,Dubai International Cricket Stadium,2016-09-24,Pakistan,West Indies,field
+1050221,T20,Pakistan,West Indies,Sheikh Zayed Stadium,2016-09-27,Pakistan,Pakistan,field
+1050615,T20,New Zealand,Pakistan,Saxton Oval,2016-11-21,New Zealand,New Zealand,bat
+1065348,T20,India,Pakistan,Asian Institute of Technology Ground,2016-12-04,India,India,bat
+1072316,T20,New Zealand,Australia,Sydney Cricket Ground,2018-02-03,Australia,Australia,field
+1072317,T20,England,Australia,Bellerive Oval,2018-02-07,Australia,Australia,field
+1072318,T20,England,Australia,Melbourne Cricket Ground,2018-02-10,Australia,Australia,field
+1072319,T20,New Zealand,England,Westpac Stadium,2018-02-13,New Zealand,England,field
+1072320,T20,New Zealand,Australia,Eden Park,2018-02-16,Australia,New Zealand,bat
+1072321,T20,England,New Zealand,Seddon Park,2018-02-18,England,New Zealand,field
+1072322,T20,New Zealand,Australia,Eden Park,2018-02-21,Australia,New Zealand,bat
+1074957,T20,Hong Kong,Scotland,Sheikh Zayed Stadium,2017-01-14,Scotland,Scotland,bat
+1074959,T20,Netherlands,Oman,Sheikh Zayed Stadium,2017-01-15,Netherlands,Oman,bat
+1074961,T20,Hong Kong,Oman,Sheikh Zayed Stadium,2017-01-16,Oman,Oman,field
+1074964,T20,Netherlands,Scotland,Sheikh Zayed Stadium,2017-01-17,Scotland,Netherlands,field
+1074965,T20,United Arab Emirates,Ireland,Dubai International Cricket Stadium,2017-01-18,Ireland,Ireland,bat
+1074966,T20,Hong Kong,Netherlands,Dubai International Cricket Stadium,2017-01-18,Hong Kong,Hong Kong,bat
+1074968,T20,Oman,Scotland,Dubai International Cricket Stadium,2017-01-19,Scotland,Oman,bat
+1074970,T20,Ireland,Scotland,Dubai International Cricket Stadium,2017-01-20,Ireland,Scotland,field
+1075507,T20,South Africa,Bangladesh,Mangaung Oval,2017-10-26,South Africa,South Africa,bat
+1075508,T20,South Africa,Bangladesh,Senwes Park,2017-10-29,South Africa,Bangladesh,field
+1077947,T20,West Indies,Pakistan,"Kensington Oval, Bridgetown",2017-03-26,Pakistan,Pakistan,field
+1077948,T20,West Indies,Pakistan,"Queen's Park Oval, Port of Spain",2017-03-30,Pakistan,West Indies,field
+1082591,T20,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,field
+1082592,T20,Rising Pune Supergiant,Mumbai Indians,Maharashtra Cricket Association Stadium,2017-04-06,Rising Pune Supergiant,Rising Pune Supergiant,field
+1082593,T20,Gujarat Lions,Kolkata Knight Riders,Saurashtra Cricket Association Stadium,2017-04-07,Kolkata Knight Riders,Kolkata Knight Riders,field
+1082594,T20,Kings XI Punjab,Rising Pune Supergiant,Holkar Cricket Stadium,2017-04-08,Kings XI Punjab,Kings XI Punjab,field
+1082595,T20,Royal Challengers Bangalore,Delhi Daredevils,M.Chinnaswamy Stadium,2017-04-08,Royal Challengers Bangalore,Royal Challengers Bangalore,bat
+1082596,T20,Sunrisers Hyderabad,Gujarat Lions,"Rajiv Gandhi International Stadium, Uppal",2017-04-09,Sunrisers Hyderabad,Sunrisers Hyderabad,field
+1082597,T20,Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,2017-04-09,Mumbai Indians,Mumbai Indians,field
+1082598,T20,Kings XI Punjab,Royal Challengers Bangalore,Holkar Cricket Stadium,2017-04-10,Kings XI Punjab,Royal Challengers Bangalore,bat
+1082599,T20,Rising Pune Supergiant,Delhi Daredevils,Maharashtra Cricket Association Stadium,2017-04-11,Delhi Daredevils,Rising Pune Supergiant,field
+1082600,T20,Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,2017-04-12,Mumbai Indians,Mumbai Indians,field
+1082601,T20,Kolkata Knight Riders,Kings XI Punjab,Eden Gardens,2017-04-13,Kolkata Knight Riders,Kolkata Knight Riders,field
+1082602,T20,Royal Challengers Bangalore,Mumbai Indians,M Chinnaswamy Stadium,2017-04-14,Mumbai Indians,Mumbai Indians,field
+1082603,T20,Gujarat Lions,Rising Pune Supergiant,Saurashtra Cricket Association Stadium,2017-04-14,Gujarat Lions,Gujarat Lions,field
+1082604,T20,Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,2017-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,field
+1082605,T20,Delhi Daredevils,Kings XI Punjab,Feroz Shah Kotla,2017-04-15,Delhi Daredevils,Delhi Daredevils,bat
+1082606,T20,Mumbai Indians,Gujarat Lions,Wankhede Stadium,2017-04-16,Mumbai Indians,Mumbai Indians,field
+1082607,T20,Royal Challengers Bangalore,Rising Pune Supergiant,M Chinnaswamy Stadium,2017-04-16,Rising Pune Supergiant,Royal Challengers Bangalore,field
+1082608,T20,Delhi Daredevils,Kolkata Knight Riders,Feroz Shah Kotla,2017-04-17,Kolkata Knight Riders,Delhi Daredevils,bat
+1082609,T20,Sunrisers Hyderabad,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",2017-04-17,Sunrisers Hyderabad,Kings XI Punjab,field
+1082610,T20,Gujarat Lions,Royal Challengers Bangalore,Saurashtra Cricket Association Stadium,2017-04-18,Royal Challengers Bangalore,Gujarat Lions,field
+1082611,T20,Sunrisers Hyderabad,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",2017-04-19,Sunrisers Hyderabad,Sunrisers Hyderabad,bat
+1082612,T20,Kings XI Punjab,Mumbai Indians,Holkar Cricket Stadium,2017-04-20,Mumbai Indians,Mumbai Indians,field
+1082613,T20,Kolkata Knight Riders,Gujarat Lions,Eden Gardens,2017-04-21,Gujarat Lions,Gujarat Lions,field
+1082614,T20,Mumbai Indians,Delhi Daredevils,Wankhede Stadium,2017-04-22,Mumbai Indians,Delhi Daredevils,field
+1082615,T20,Rising Pune Supergiant,Sunrisers Hyderabad,Maharashtra Cricket Association Stadium,2017-04-22,Rising Pune Supergiant,Rising Pune Supergiant,field
+1082616,T20,Gujarat Lions,Kings XI Punjab,Saurashtra Cricket Association Stadium,2017-04-23,Kings XI Punjab,Gujarat Lions,field
+1082617,T20,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,2017-04-23,Kolkata Knight Riders,Royal Challengers Bangalore,field
+1082618,T20,Mumbai Indians,Rising Pune Supergiant,Wankhede Stadium,2017-04-24,Rising Pune Supergiant,Mumbai Indians,field
+1082620,T20,Rising Pune Supergiant,Kolkata Knight Riders,Maharashtra Cricket Association Stadium,2017-04-26,Kolkata Knight Riders,Kolkata Knight Riders,field
+1082621,T20,Royal Challengers Bangalore,Gujarat Lions,M Chinnaswamy Stadium,2017-04-27,Gujarat Lions,Gujarat Lions,field
+1082622,T20,Kolkata Knight Riders,Delhi Daredevils,Eden Gardens,2017-04-28,Kolkata Knight Riders,Kolkata Knight Riders,field
+1082623,T20,Kings XI Punjab,Sunrisers Hyderabad,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-28,Sunrisers Hyderabad,Kings XI Punjab,field
+1082624,T20,Rising Pune Supergiant,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,2017-04-29,Rising Pune Supergiant,Royal Challengers Bangalore,field
+1082625,T20,Gujarat Lions,Mumbai Indians,Saurashtra Cricket Association Stadium,2017-04-29,Unknown,Gujarat Lions,bat
+1082626,T20,Kings XI Punjab,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-30,Kings XI Punjab,Kings XI Punjab,field
+1082627,T20,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",2017-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,field
+1082628,T20,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,2017-05-01,Mumbai Indians,Royal Challengers Bangalore,bat
+1082629,T20,Rising Pune Supergiant,Gujarat Lions,Maharashtra Cricket Association Stadium,2017-05-01,Rising Pune Supergiant,Rising Pune Supergiant,field
+1082630,T20,Delhi Daredevils,Sunrisers Hyderabad,Feroz Shah Kotla,2017-05-02,Delhi Daredevils,Delhi Daredevils,field
+1082631,T20,Kolkata Knight Riders,Rising Pune Supergiant,Eden Gardens,2017-05-03,Rising Pune Supergiant,Rising Pune Supergiant,field
+1082632,T20,Delhi Daredevils,Gujarat Lions,Feroz Shah Kotla,2017-05-04,Delhi Daredevils,Delhi Daredevils,field
+1082633,T20,Royal Challengers Bangalore,Kings XI Punjab,M Chinnaswamy Stadium,2017-05-05,Kings XI Punjab,Royal Challengers Bangalore,field
+1082634,T20,Sunrisers Hyderabad,Rising Pune Supergiant,"Rajiv Gandhi International Stadium, Uppal",2017-05-06,Rising Pune Supergiant,Sunrisers Hyderabad,field
+1082635,T20,Delhi Daredevils,Mumbai Indians,Feroz Shah Kotla,2017-05-06,Mumbai Indians,Delhi Daredevils,field
+1082636,T20,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,2017-05-07,Kolkata Knight Riders,Kolkata Knight Riders,field
+1082637,T20,Kings XI Punjab,Gujarat Lions,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-07,Gujarat Lions,Gujarat Lions,field
+1082638,T20,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal",2017-05-08,Sunrisers Hyderabad,Mumbai Indians,bat
+1082639,T20,Kings XI Punjab,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-09,Kings XI Punjab,Kolkata Knight Riders,field
+1082640,T20,Gujarat Lions,Delhi Daredevils,Green Park,2017-05-10,Delhi Daredevils,Delhi Daredevils,field
+1083449,T20,Sri Lanka,Bangladesh,R Premadasa Stadium,2017-04-04,Sri Lanka,Bangladesh,bat
