@@ -35,4 +35,4 @@ A comprehensive cricket data analysis project that processes match data from Cri
 - python scripts/eda_analysis.py
 
 ## 📊 Power BI Dashboard
-- To view the published interactive report - https://app.powerbi.com/groups/me/reports/a1856ff9-cb1d-4fa7-a52c-ea44fdff2180/507f156aa0dc95c10074?experience=power-bi 
+- To view the published interactive report - <a href="https://app.powerbi.com/groups/me/reports/a1856ff9-cb1d-4fa7-a52c-ea44fdff2180/507f156aa0dc95c10074?experience=power-bi" target="_blank">Click Here</a>
