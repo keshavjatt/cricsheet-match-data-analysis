@@ -14,7 +14,7 @@ A comprehensive cricket data analysis project that processes match data from Cri
 
 ## 🛠️ Tech Stack
 
-- **Python 3.8+** - Core programming language
+- **Python** - Core programming language
 - **Pandas** - Data processing and manipulation
 - **SQLAlchemy** - Database ORM and management
 - **Matplotlib/Seaborn** - Static visualizations and charts
